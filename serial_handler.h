@@ -37,7 +37,7 @@
 #include <string>
 //-----------------------------
 // Serial interface library
-#include "rs232/rs232.h"
+#include "RS-232/rs232.h"
 //-----------------------------
 
 // Provides preset parameters for serial connection to Roomba
